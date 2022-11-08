@@ -1,0 +1,21 @@
+
+s
+java:S1104"XMake studentCount a static final constant or non-public and provide accessors if needed.(‘¶Øî¯ˇˇˇˇ
+M
+java:S1444"2Make this "public static studentCount" field final(‘¶Øî¯ˇˇˇˇ
+O
+java:S3400"9Remove this method and declare a constant for this value.(»∏Âê
+>
+java:S1172"(Remove this unused method parameter "a".(ÊÄå‚
+O
+java:S3400"9Remove this method and declare a constant for this value.(⁄Âùˆ
+J
+java:S1172"/Remove these unused method parameters "a", "b".(º¿˜¿˛ˇˇˇˇ
+O
+java:S3400 "9Remove this method and declare a constant for this value.(ûõÖ⁄
+>
+java:S1172"(Remove this unused method parameter "a".(Œ¥àù
+U
+java:S1854%"8Remove this useless assignment to local variable "loop".(»§Ó≥8òΩ√§ø0
+F
+java:S1481%")Remove this unused "loop" local variable.(»§Ó≥8öΩ√§ø0
